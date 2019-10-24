@@ -8,12 +8,12 @@ This project has an objective to share algorithms implementations in Java.
 ### Here you find Java algorithm implementations for:
  
 - [Arrays](src/arrays/Array.md)
-- [Graphs]((src/graphs/Graph.md))    
-- [Heaps]((src/heaps/Heap.md))    
-- [Lists]((src/lists/List.md))    
-- [Queues]((src/queues/Queue.md))    
-- [Stacks]((src/stacks/Stack.md))    
-- [Trees]((src/trees/Tree.md))    
+- [Graphs](src/graphs/Graph.md)    
+- [Heaps](src/heaps/Heap.md)    
+- [Lists](src/lists/List.md)    
+- [Queues](src/queues/Queue.md)    
+- [Stacks](src/stacks/Stack.md)    
+- [Trees](src/trees/Tree.md)    
 
 ### Contributing guide
 
