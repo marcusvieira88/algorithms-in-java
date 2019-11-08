@@ -21,3 +21,7 @@ Array {1,2,3,4,5} rotate 3 times to left {4,5,3,2,1}
 ## Rotate to Right
 
 Array {1,2,3,4,5} rotate 3 times to left {3,4,5,1,2} 
+
+## Reverse
+
+Array {1,2,3,4,5} reverse to {5,4,3,2,1} 

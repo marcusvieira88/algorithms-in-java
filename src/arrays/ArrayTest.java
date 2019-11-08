@@ -38,5 +38,12 @@ public class ArrayTest {
         for (int i = 0; i < result2.length; i++) {
             System.out.println(result2[i]);
         }
+
+        System.out.println("=========== Reverse ============");
+        final int[] reverse = Reverse.reverse(array);
+
+        for (int i = 0; i < reverse.length; i++) {
+            System.out.println(reverse[i]);
+        }
     }
 }

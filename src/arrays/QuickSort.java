@@ -13,7 +13,9 @@ public class QuickSort {
 
         int pivot = array[(left + right) / 2];
         int index = partition(array, left, right, pivot);
+        System.out.println("index=" + index + " left=" + left + " right=" + right + " pivot=" + pivot);
         quickSort(array, left, index - 1);
+        System.out.println("Right");
         quickSort(array, index, right);
     }
 
@@ -41,4 +43,16 @@ public class QuickSort {
         array[left] = array[right];
         array[right] = temp;
     }
+
+//    private static void quickSortTest(int[] array, int left, int right) {
+//
+//        if (left >= right){
+//            return;
+//        }
+//
+//        int pivot = array[(left+right)/2];
+//        int index
+//
+//    }
+
 }
